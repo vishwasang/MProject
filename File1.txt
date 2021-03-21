@@ -1,0 +1,11 @@
+Hi
+
+1 Git init 
+2 Git add Remote origin <url>
+3 Git status
+4 Git add .
+5 Git status
+6 Git commit -m "first commit"
+7 Git push origin master 
+
+8
